@@ -6,7 +6,7 @@ public class Hello_World {
 		
 		int a=2;
 		int b=4;
-		if(b>a) {
+		if(a>b) {
 			System.out.println("B is greater");
 		}
 		
